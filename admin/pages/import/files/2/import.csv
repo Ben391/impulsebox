@@ -1,0 +1,20 @@
+﻿Anrede;Vorname;Nachname;Strasse;Hausnummer;Adresszusatz;Postleitzahl;Ort;Geburtsdatum;Telefonnummer;E-Mail;versichert;Krankenkasse;Versichertennummer;beihilfeberechtigt;Pflegegrad;Wechsel;Wechseldatum
+Frau;Friedel;Barth;Spenger Str.;45;;32130;Enger;10.10.1924;05224 68793200;;privat;Allianz Private Krankenversicherung;AK0569816841;nein;2;ja;
+Herr;Franz;Brunner;Spenger Str.;45;;32130;Enger;07.10.1941;05224 68793200;;gesetzlich;Techniker Krankenkasse (TK);H954769532;nein;3;ja;
+Herr;Reinhard;Drescher;Spenger Str.;45;;32130;Enger;27.07.1936;05224 68793200;;gesetzlich;IKK classic;E505004934;ja;5;ja;
+Frau;Lore;Fortmann;Spenger Str.;45;;32130;Enger;09.03.1936;05224 68793200;;gesetzlich;AOK Nordwest;P720052232;nein;3;ja;
+Frau;Alexandra;Götz;Spenger Str.;45;;32130;Enger;03.11.1940;05224 68793200;;gesetzlich;AOK Nordwest;P860618020;ja;3;ja;
+Frau;Sabine ;Hampe;Spenger Str.;45;;32130;Enger;06.05.1954;05224 68793200;;gesetzlich;AOK Nordwest;Z147633421;ja;3;ja;
+Frau;Ilse;Huber;Spenger Str.;45;;32130;Enger;10.05.1924;05224 68793200;;gesetzlich;AOK Nordwest;D672751270;nein;3;ja;
+Frau;Lieselotte;Jeschke;Spenger Str.;45;;32130;Enger;19.12.1936;05224 68793200;;gesetzlich;BARMER;N881239823;nein;3;ja;
+Frau;Irmgard;Kohlmann;Spenger Str.;45;;32130;Enger;18.08.1939;05224 68793200;;gesetzlich;Techniker Krankenkasse (TK);H052878811;nein;3;ja;
+Herr;Karl-Heinrich;Kuhn;Spenger Str.;45;;32130;Enger;12.04.1929;05224 68793200;;gesetzlich;AOK Nordwest;V620095133;ja;3;ja;
+Frau;Gisela;Redenius;Spenger Str.;45;;32130;Enger;25.03.1939;05224 68793200;;gesetzlich;DAK Gesundheit;V051091528;ja;3;ja;
+Frau;Annegret;Schierbaum;Spenger Str.;45;;32130;Enger;25.07.1942;05224 68793200;;gesetzlich;DAK Gesundheit;Z891486812;nein;2;ja;
+Herr;Gerhard;Schierbaum;Spenger Str.;45;;32130;Enger;20.08.1938;05224 68793200;;gesetzlich;DAK Gesundheit;K672306690;nein;3;ja;
+Frau;Hanna;Schmithüsen;Spenger Str.;45;;32130;Enger;12.10.1938;05224 68793200;;privat;Postbeamtenkrankenkasse;150001 749802;nein;2;ja;
+Frau;Angelika;Schmuck;Spenger Str.;45;;32130;Enger;12.02.1950;05224 68793200;;gesetzlich;BARMER;M022710492;ja;4;ja;
+Herr;Gerhard;Uphaus;Spenger Str.;45;;32130;Enger;18.08.1940;05224 68793200;;gesetzlich;Techniker Krankenkasse (TK);T972085882;nein;2;ja;
+Frau;Edeltraud;Voigt;Spenger Str.;45;;32130;Enger;12.06.1943;05224 68793200;;gesetzlich;AOK Nordwest;F335857941;nein;3;ja;
+Frau;Margot;Wesskamp;Spenger Str.;45;;32130;Enger;22.01.1942;05224 68793200;;gesetzlich;AOK Nordwest;E257221100;nein;2;ja;
+Herr;Wolfgang;Worm;Spenger Str.;45;;32130;Enger;12.12.1941;05224 68793200;;gesetzlich;IKK classic;H554014234;nein;2;ja;

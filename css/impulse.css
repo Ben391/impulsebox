@@ -1,0 +1,85 @@
+.bg-main-gradient{
+    background: linear-gradient(45deg, var(--impulsebox-gradient1) 0%, var(--impulsebox-gradient3) 100%);
+}
+.main-bg {
+    background: linear-gradient(90deg, rgba(27, 152, 224, 0.35) 0%, rgba(0, 74, 143, 0.35) 100%), url(../img/bg/main.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    min-width: 100%;
+}
+.ripple-box .ripple-element:after, .ripple-box .ripple-element:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, #1b98e0 0%, #6b6b6b 67%, #004a8f 100%);
+    border-radius: inherit;
+    z-index: -1;
+    animation: ripple infinite 3s ease-in-out;
+}
+#vorteile .p-rel svg {
+    position: absolute;
+    top: -10%;
+    left: -3%;
+    opacity: 80%;
+}
+
+#erhalt .p-rel svg {
+    position: absolute;
+    top: -3%;
+    left: -9%;
+    opacity: 80%;
+    width: 25%;
+}
+.application-progress-bar-point {
+    text-decoration: none;
+    color: var(--impulsebox-darkgreen);
+}
+.application-progress-bar-point-done .application-progress-bar-circle{
+	background-color:var(--impulsebox-darkgreen);
+	border-color:var(--impulsebox-darkgreen);
+	box-shadow: 0 .125rem .25rem rgba(0,0,0,0.2);
+	opacity: 1;
+}
+.application-progress-bar-point-active{
+	color: var(--impulsebox-darkgreen);
+}
+.application-progress-bar-point-active .application-progress-bar-circle{
+	border-color:var(--impulsebox-darkgreen)!important;
+	color: var(--impulsebox-darkgreen)!important;
+	opacity: 1;
+}
+.application-progress-bar-point-disabled {
+    color: var(--impulsebox-darkgreen);
+    pointer-events: none !important;
+    cursor: not-allowed !important;
+}
+.application-progress-bar-circle {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-width: 2px;
+    border-style: solid;
+    border-color: var(--impulsebox-green-0-5);
+    background-color: white;
+}
+.application-progress-bar-circle::after {
+    content: "";
+    position: absolute;
+    top: 46%;
+    left: 100%;
+    height: 2px;
+    background: var(--impulsebox-green);
+    width: 150%;
+    z-index: -1;
+	opacity: 0.5;
+}

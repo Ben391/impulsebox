@@ -1,0 +1,14 @@
+﻿Anrede;Vorname;Nachname;Strasse;Hausnummer;Adresszusatz;Postleitzahl;Ort;Geburtsdatum;Telefonnummer;E-Mail;versichert;Krankenkasse;"Versichertennummer	";"beihilfeberechtigt	";Pflegegrad;Wechsel;Wechseldatum
+Herr;Hans;Fiedler;Salzuflerstr;46;;33729;Bielefeld;24.11.1936;+49521 305 261 11;;gesetzlich;AOK Nordwest;T289515270;nein;3;ja;01.03.2024
+Frau;Jakobskrüger;Magrit;Salzuflerstr;46;;33729;Bielefeld;20.05.1929;+49521 305 261 11;;gesetzlich;DAK Gesundheit;I104742553;nein;3;ja;01.03.2024
+Frau;Marlies;Wend;Salzuflerstr.;46;;33729;Bielefeld;07.01.1939;+49521 305 261 11;;gesetzlich;AOK Nordwest;T990927549;nein;3;ja;01.03.2024
+Frau;Giesela;Gallina;Salzuflerstr;46;;33729;Bielefeld;04.09.1942;+49521 305 261 11;;gesetzlich;BKK Diakonie;V426986861;nein;3;ja;01.03.2024
+Frau;Hattenhorst;Ingrid;Salzuflerstr;46;;33729;Bielefeld;09.06.1941;+49521 305 261 11;;gesetzlich;BARMER;I258573422;nein;3;ja;01.03.2024
+Herr;Frank;Koslowski;Salzuflerstr;46;;33729;Bielefeld;21.09.1961;+49521 305 261 11;;gesetzlich;AOK Nordwest;R984557872;nein;2;ja;01.03.2024
+Frau;Helga;Wunder-Esser;Salzuflerst;46;;33729;Bielefeld;04.02.1945;+49521 305 261 11;;gesetzlich;hkk Krankenkasse;S324024126;nein;5;ja;01.03.2024
+Herr;Joachim;Ermlich;Salzuflerstr;46;;33729;Bielefeld;02.01.1949;+49521 305 261 11;;gesetzlich;Heimat Krankenkasse ;H934678231;nein;3;ja;01.03.2024
+Frau;Marie-Louise;Timmermann;Salzuflerstr;46;;33729;Bielefeld;17.08.1932;+49521 305 261 11;;gesetzlich;BARMER;I950702996;nein;3;ja;01.03.2024
+Frau;Brunhilde;Bockhorst;Salzuflerstr;46;;33729;Bielefeld;16.09.1930;+49521 305 261 11;;gesetzlich;DAK Gesundheit;G814038530;nein;4;ja;01.03.2024
+Herr;Werner;Heldt;Salzuflerstr;46;;33729;Bielefeld;03.04.1941;+49521 305 261 11;;gesetzlich;AOK Nordwest;D249223997;nein;3;ja;01.03.2024
+Herr;Hans ;Gronwald;Salzuflerstr;46;;33729;Bielefeld;13.03.1940;+49521 305 261 11;;gesetzlich;Heimat Krankenkasse ;M088044307;nein;4;ja;01.03.2024
+Frau;Helga;Wiegel;Salzuflerstr;46;;33729;Bielefeld;14.12.1926;+49521 305 261 11;;gesetzlich;AOK Nordwest;C789302415;nein;4;ja;01.03.2024
